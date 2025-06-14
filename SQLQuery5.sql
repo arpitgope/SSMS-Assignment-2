@@ -1,1 +1,0 @@
-SELECT dbo.fn_FormatDate_YYYYMMDD('2006-11-21 23:34:05.920');
